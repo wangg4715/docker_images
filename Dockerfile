@@ -1,1 +1,1 @@
-FROM redis/redis:latest
+FROM nacos/nacos
