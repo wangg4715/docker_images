@@ -1,1 +1,1 @@
-FROM influxdb/influxdb:2.6.1
+FROM influxdb:2.6.1
