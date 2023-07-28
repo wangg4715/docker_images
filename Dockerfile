@@ -1,1 +1,1 @@
-FROM influxdb/influxdb
+FROM nginx/nginx
